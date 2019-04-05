@@ -15,3 +15,12 @@ img {
   height: auto;
   display: block;
 }
+
+
+body {
+  background: linear-gradient(105deg, lightgray, darken(gray, 35));
+  max-width: 1200px;
+  margin: 0 auto;
+
+  padding: 1rem 2rem;
+}
